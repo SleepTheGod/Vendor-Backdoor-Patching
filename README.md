@@ -24,7 +24,7 @@ To run this script, you must have:
 
 1. Clone the repository to your local machine or server:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/SleepTheGod/Vendor-Backdoor-Patching)
 
 Navigate to the cloned directory
 
