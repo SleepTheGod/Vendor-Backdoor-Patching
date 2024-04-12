@@ -59,7 +59,7 @@ This project is open source and available under the MIT License.
 Disclaimer
 This script is provided as-is with no warranty. Use it at your own risk. The authors are not responsible for any damages or security breaches that might occur.
 
-Made with ❤️ by Taylor Christian Newsome and Andrew Prendergast
+Made with ❤️ by Taylor Christian Newsome
 
 
 Note: Replace `<repository-url>` and `<cloned-directory>` with the actual URL of your repository and the name of the directory into which you clone the repository, respectively. Additionally, if you're planning to include a LICENSE file (as referenced in the "License" section), ensure it's present in your repository and correctly linked.
