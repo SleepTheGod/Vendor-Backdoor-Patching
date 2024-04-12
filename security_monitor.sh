@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Made By Taylor Christian Newsome And Andrew Prendergast
+# Made By Taylor Christian Newsome
 
 # Define the log file paths
 CONNECTION_LOG="/var/log/connection_monitor.log"
